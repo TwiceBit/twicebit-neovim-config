@@ -1,7 +1,8 @@
 
 --vim.cmd('colorscheme github_dark_high_contrast')
 vim.cmd('colorscheme tokyonight-night')
-vim.cmd('set nu')
+---vim.cmd('set nu')
+vim.cmd('set rnu')
 vim.cmd('set mouse=v')
 
 
